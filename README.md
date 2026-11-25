@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JeeveshBinoy.
-- 👀 I’m interested in Web Development and Trading.
-- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me ? jeeveshbinoy4@gmail.com
 
 <!---
